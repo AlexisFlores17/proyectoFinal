@@ -1,0 +1,3 @@
+Modificar el Script "File 1" para probar la opción de cargar mp3 en pruebas en unity
+
+AL iniciar la aplicación antes de reproducir un sonido con un efecto primero establecer los valores en los sliders del efecto.
